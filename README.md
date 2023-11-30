@@ -23,8 +23,10 @@
 21. Admin can approve/reject users withdraw request
 # instal laravel with composer selective version
 composer create-project --prefer-dist laravel/laravel="8.*" project_name
+
 #theem Link Add
+
 https://themewagon.com/themes/dashui/
-#for More Templates
+for More Templates
 1) https://themewagon.com/theme-price/free/
 2) https://w3layouts.com/tag/responsive/
