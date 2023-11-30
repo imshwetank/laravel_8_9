@@ -25,4 +25,4 @@
 
 
 # instal laravel with composer selective version
-composer create-project --prefer-dist laravel/laravel="8.*" laravel8
+composer create-project --prefer-dist laravel/laravel="8.*" project_name
