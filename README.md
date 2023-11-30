@@ -21,3 +21,8 @@
 19. Admin can see all users details
 20. Admin can on/off any user
 21. Admin can approve/reject users withdraw request
+
+
+
+# instal laravel with composer selective version
+composer create-project --prefer-dist laravel/laravel="8.*" laravel8
